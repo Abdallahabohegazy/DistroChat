@@ -123,7 +123,7 @@ DistroChat/
 ├── COMMANDS.md
 └── README.md
 
-⚙️ Prerequisites
+## ⚙️ Prerequisites
 
 Before installation, ensure you have:
 
@@ -152,10 +152,10 @@ Windows CMD
 macOS/Linux
 
 source .venv/bin/activate
-4️⃣ Install Dependencies
+## 4️⃣ Install Dependencies
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
-⚙️ Configuration
+## ⚙️ Configuration
 
 Edit config.json:
 
@@ -174,14 +174,14 @@ max_clients
 room_max_capacity
 db_path
 log_path
-▶️ Running The Project
+## ▶️ Running The Project
 Start Server
 python DistroChat/server/server.py
 Start Client GUI
 python DistroChat/client/gui/app.py
 Start Admin Dashboard
 python DistroChat/admin/admin_dashboard.py
-🌍 Running on Multiple Devices (LAN)
+## 🌍 Running on Multiple Devices (LAN)
 Start server on host machine
 Allow firewall TCP access for selected port
 Find host LAN IP:
@@ -189,7 +189,7 @@ ipconfig
 Use server IP in client login screen:
 192.168.x.x
 Ensure all devices are connected to same network
-💻 Available Commands
+## 💻 Available Commands
 General Commands
 /help
 /rooms
@@ -204,7 +204,7 @@ Moderator/Admin Commands
 /unban <user>
 /broadcast <message>
 
-📄 Full documentation available in:
+## 📄 Full documentation available in:
 
 COMMANDS.md
 ☁️ Upload to GitHub (First Time)
@@ -214,7 +214,7 @@ git commit -m "Initial commit - DistroChat"
 git branch -M main
 git remote add origin https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
 git push -u origin main
-🗑️ Uninstallation
+## 🗑️ Uninstallation
 Deactivate Environment
 deactivate
 Remove Project Data
@@ -228,7 +228,7 @@ rmdir /s /q logs
 macOS/Linux
 
 rm -rf .venv database logs
-🧩 Troubleshooting
+## 🧩 Troubleshooting
 Port Already In Use
 
 Edit:
@@ -241,22 +241,22 @@ Client Cannot Connect
 Verify server is running
 Check IP/port
 Check firewall permissions
-🔮 Future Improvements
+## 🔮 Future Improvements
 End-to-End Encryption
 File Sharing
 Search & Filtering
 Docker Deployment
 Automated Testing
 CI/CD Pipeline
-🤝 Team Collaboration
 
-Developed collaboratively as part of a university Distributed Computing project, emphasizing:
+## 🤝 Project Collaborators
 
-Software architecture
-Networking
-Security
-Teamwork
-Real-world distributed systems implementation
-📜 License
+Special thanks to:
 
+- @yossef1907
+- @MohamedZarref
+
+for their collaboration, development, and contribution to DistroChat.
+
+## 📜 License
 This project is intended for educational purposes under university coursework.
