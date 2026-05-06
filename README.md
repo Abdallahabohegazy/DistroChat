@@ -122,7 +122,7 @@ DistroChat/
 ├── config.json
 ├── COMMANDS.md
 └── README.md
-
+```
 ## ⚙️ Prerequisites
 
 Before installation, ensure you have:
@@ -260,3 +260,5 @@ for their collaboration, development, and contribution to DistroChat.
 
 ## 📜 License
 This project is intended for educational purposes under university coursework.
+
+د
