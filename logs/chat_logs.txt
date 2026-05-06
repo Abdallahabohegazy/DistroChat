@@ -1,0 +1,190 @@
+
+2026-05-04 21:42:02,466 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-04 21:42:02 | Active connections: 0
+2026-05-04 21:42:02,466 [INFO] Waiting for clients...
+2026-05-04 21:48:42,881 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-04 21:48:42 | Active connections: 0
+2026-05-04 21:48:42,881 [INFO] Waiting for clients...
+2026-05-04 21:52:33,919 [INFO] Connected: ziad (('127.0.0.1', 60016))
+2026-05-04 21:52:33,922 [INFO] Server message: ziad connected
+2026-05-04 21:53:48,552 [INFO] Disconnected: ziad
+2026-05-04 21:53:48,553 [INFO] Server message: ziad disconnected: Client disconnected
+2026-05-04 21:54:02,794 [INFO] Connected: ziad (('127.0.0.1', 60339))
+2026-05-04 21:54:02,797 [INFO] Server message: ziad connected
+2026-05-04 21:56:13,796 [INFO] Disconnected: ziad
+2026-05-04 21:56:13,796 [INFO] Server message: ziad disconnected: Client disconnected
+2026-05-04 21:56:27,365 [INFO] Connected: ziad (('127.0.0.1', 60760))
+2026-05-04 21:56:27,368 [INFO] Server message: ziad connected
+2026-05-04 22:00:45,796 [INFO] Disconnected: ziad
+2026-05-04 22:00:45,796 [INFO] Server message: ziad disconnected: Client disconnected
+2026-05-04 22:01:22,150 [INFO] Connected: ziad (('127.0.0.1', 61662))
+2026-05-04 22:01:22,154 [INFO] Server message: ziad connected
+2026-05-04 22:36:45,886 [INFO] Disconnected: ziad
+2026-05-04 22:36:46,063 [INFO] Server message: ziad disconnected: Client disconnected
+2026-05-04 22:50:35,561 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-04 22:50:35 | Active connections: 0
+2026-05-04 22:50:35,561 [INFO] Waiting for clients...
+2026-05-04 22:51:14,499 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-04 22:51:14 | Active connections: 0
+2026-05-04 22:51:14,500 [INFO] Waiting for clients...
+2026-05-04 22:51:59,741 [INFO] Connected: ziad (('127.0.0.1', 54149))
+2026-05-04 22:51:59,744 [INFO] Server message: ziad connected
+2026-05-04 22:58:13,687 [INFO] Connected: ziad (('127.0.0.1', 55672))
+2026-05-04 22:58:13,691 [INFO] Server message: ziad connected
+2026-05-04 23:00:13,692 [INFO] Disconnected: ziad
+2026-05-04 23:00:13,692 [INFO] Server message: ziad disconnected: Client disconnected
+2026-05-04 23:11:06,184 [INFO] Disconnected: ziad
+2026-05-04 23:11:06,184 [INFO] Server message: ziad disconnected: Client disconnected
+2026-05-04 23:11:23,338 [INFO] Connected: admin (('127.0.0.1', 58850))
+2026-05-04 23:11:23,342 [INFO] Server message: admin connected
+2026-05-04 23:35:39,261 [INFO] Disconnected: admin
+2026-05-04 23:35:39,303 [INFO] Server message: admin disconnected: Client disconnected
+2026-05-04 23:43:57,798 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-04 23:43:57 | Active connections: 0
+2026-05-04 23:43:57,799 [INFO] Waiting for clients...
+2026-05-04 23:48:07,903 [INFO] Connected: ziad (('127.0.0.1', 57975))
+2026-05-04 23:48:10,588 [INFO] Connected: ziad (('127.0.0.1', 57982))
+2026-05-04 23:48:11,759 [INFO] Connected: ziad (('127.0.0.1', 57998))
+2026-05-04 23:48:18,786 [INFO] Connected: ziad (('127.0.0.1', 58017))
+2026-05-04 23:48:19,163 [INFO] Connected: ziad (('127.0.0.1', 58018))
+2026-05-04 23:48:19,344 [INFO] Connected: ziad (('127.0.0.1', 58019))
+2026-05-04 23:48:19,479 [INFO] Connected: ziad (('127.0.0.1', 58020))
+2026-05-04 23:48:23,863 [INFO] Server message: ziad connected
+2026-05-04 23:48:23,866 [INFO] Server message: ziad connected
+2026-05-04 23:48:23,869 [INFO] Server message: ziad connected
+2026-05-04 23:48:23,872 [INFO] Server message: ziad connected
+2026-05-04 23:48:23,875 [INFO] Server message: ziad connected
+2026-05-04 23:48:23,877 [INFO] Server message: ziad connected
+2026-05-04 23:48:23,880 [INFO] Server message: ziad connected
+2026-05-04 23:49:11,146 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-04 23:49:11 | Active connections: 0
+2026-05-04 23:49:11,146 [INFO] Waiting for clients...
+2026-05-04 23:49:24,895 [INFO] Connected: ziad (('127.0.0.1', 58182))
+2026-05-04 23:49:24,899 [INFO] Server message: ziad connected
+2026-05-04 23:50:36,000 [INFO] Connected: admin (('127.0.0.1', 58451))
+2026-05-04 23:50:41,542 [INFO] Connected: admin (('127.0.0.1', 58485))
+2026-05-04 23:50:49,323 [INFO] Connected: admin (('127.0.0.1', 58499))
+2026-05-04 23:50:53,733 [INFO] Server message: admin connected
+2026-05-04 23:50:53,765 [INFO] Server message: admin connected
+2026-05-04 23:50:53,771 [INFO] Server message: admin connected
+2026-05-04 23:51:26,524 [INFO] Disconnected: admin
+2026-05-04 23:51:26,524 [INFO] Disconnected: admin
+2026-05-04 23:51:26,524 [INFO] Disconnected: admin
+2026-05-04 23:51:26,525 [INFO] Server message: admin disconnected: Client disconnected
+2026-05-04 23:51:26,525 [INFO] Server message: admin disconnected: Client disconnected
+2026-05-04 23:51:26,525 [INFO] Server message: admin disconnected: Client disconnected
+2026-05-04 23:51:30,473 [INFO] Disconnected: ziad
+2026-05-04 23:51:30,473 [INFO] Server message: ziad disconnected: Client disconnected
+2026-05-05 00:23:55,355 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-05 00:23:55 | Active connections: 0
+2026-05-05 00:23:55,355 [INFO] Waiting for clients...
+2026-05-05 00:25:46,009 [INFO] Connected: admin (('127.0.0.1', 49689))
+2026-05-05 00:25:46,014 [INFO] Server message: admin connected
+2026-05-05 00:31:23,314 [INFO] Disconnected: admin
+2026-05-05 00:31:23,315 [INFO] Server message: admin disconnected: Client disconnected
+2026-05-05 00:43:31,544 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-05 00:43:31 | Active connections: 0
+2026-05-05 00:43:31,544 [INFO] Waiting for clients...
+2026-05-05 00:44:21,584 [INFO] Connected: ziad (('127.0.0.1', 52956))
+2026-05-05 00:44:21,587 [INFO] Server message: ziad connected
+2026-05-05 00:45:27,779 [INFO] Connected: admin (('127.0.0.1', 53171))
+2026-05-05 00:45:27,782 [INFO] Server message: admin connected
+2026-05-05 00:51:58,135 [INFO] Server message: server is colsed
+2026-05-05 00:51:59,911 [INFO] Server message: server is colsed
+2026-05-05 00:52:00,936 [INFO] Server message: server is colsed
+2026-05-05 00:52:01,094 [INFO] Server message: server is colsed
+2026-05-05 00:52:01,228 [INFO] Server message: server is colsed
+2026-05-05 00:52:01,363 [INFO] Server message: server is colsed
+2026-05-05 00:56:12,057 [INFO] Disconnected: ziad
+2026-05-05 00:56:12,057 [INFO] Server message: ziad disconnected: Client disconnected
+2026-05-05 00:56:26,722 [INFO] Connected: ziad (('127.0.0.1', 55073))
+2026-05-05 00:56:26,725 [INFO] Server message: ziad connected
+2026-05-05 00:56:35,588 [INFO] Disconnected: ziad
+2026-05-05 00:56:35,588 [INFO] Server message: ziad disconnected: Client disconnected
+2026-05-05 00:56:39,051 [INFO] Disconnected: admin
+2026-05-05 00:56:39,051 [INFO] Server message: admin disconnected: Client disconnected
+2026-05-05 00:56:59,654 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-05 00:56:59 | Active connections: 0
+2026-05-05 00:56:59,654 [INFO] Waiting for clients...
+2026-05-05 00:57:17,677 [INFO] Connected: ziad (('127.0.0.1', 55209))
+2026-05-05 00:57:20,519 [INFO] Connected: ziad (('127.0.0.1', 55212))
+2026-05-05 00:57:30,692 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: ziad connected
+2026-05-05 00:57:30,692 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: ziad connected
+2026-05-05 00:59:25,355 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-05 00:59:25 | Active connections: 0
+2026-05-05 00:59:25,355 [INFO] Waiting for clients...
+2026-05-05 00:59:48,640 [INFO] Connected: ziad (('127.0.0.1', 55646))
+2026-05-05 00:59:48,641 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: ziad connected
+2026-05-05 01:00:54,650 [INFO] Connected: admin (('127.0.0.1', 55802))
+2026-05-05 01:00:54,651 [INFO] EVENT_LOG: Broadcast sent to 2 users | Content: admin connected
+2026-05-05 01:01:02,284 [INFO] EVENT_LOG: Broadcast sent to 2 users | Content: test
+2026-05-05 01:03:58,577 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-05 01:03:58 | Active connections: 0
+2026-05-05 01:03:58,578 [INFO] Waiting for clients...
+2026-05-05 01:05:20,252 [INFO] Connected: admin (('127.0.0.1', 56416))
+2026-05-05 01:05:20,253 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: admin connected
+2026-05-05 01:09:19,576 [INFO] Disconnected: admin
+2026-05-05 01:09:19,576 [INFO] EVENT_LOG: Broadcast sent to 0 users | Content: admin disconnected: Client disconnected
+2026-05-05 01:09:44,030 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-05 01:09:44 | Active connections: 0
+2026-05-05 01:09:44,031 [INFO] Waiting for clients...
+2026-05-05 01:10:06,362 [INFO] Connected: ziad (('127.0.0.1', 57115))
+2026-05-05 01:10:06,363 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: ziad connected
+2026-05-05 01:43:00,782 [INFO] Disconnected: ziad
+2026-05-05 01:43:00,782 [INFO] EVENT_LOG: Broadcast sent to 0 users | Content: ziad disconnected: Client disconnected
+2026-05-05 01:43:42,679 [INFO] Connected: ziad (('127.0.0.1', 64826))
+2026-05-05 01:43:42,679 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: ziad connected
+2026-05-05 01:43:55,314 [INFO] Disconnected: ziad
+2026-05-05 01:43:55,314 [INFO] EVENT_LOG: Broadcast sent to 0 users | Content: ziad disconnected: Client disconnected
+2026-05-05 02:45:51,130 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-05 02:45:51 | Active connections: 0
+2026-05-05 02:45:51,130 [INFO] Waiting for clients...
+2026-05-05 02:47:17,394 [INFO] Connected: Abdallah (('192.168.1.105', 8911))
+2026-05-05 02:47:17,395 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: Abdallah connected
+2026-05-05 02:47:40,699 [INFO] Connected: ziad (('127.0.0.1', 58137))
+2026-05-05 02:47:40,699 [INFO] EVENT_LOG: Broadcast sent to 2 users | Content: ziad connected
+2026-05-05 02:51:20,838 [INFO] Disconnected: Abdallah
+2026-05-05 02:51:20,839 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: Abdallah disconnected: Client disconnected
+2026-05-05 02:51:38,123 [INFO] Connected: Abdallah (('192.168.1.105', 8943))
+2026-05-05 02:51:38,124 [INFO] EVENT_LOG: Broadcast sent to 2 users | Content: Abdallah connected
+2026-05-05 02:57:48,774 [INFO] Disconnected: ziad
+2026-05-05 02:57:48,774 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: ziad disconnected: Client disconnected
+2026-05-05 02:58:22,258 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-05 02:58:22 | Active connections: 0
+2026-05-05 02:58:22,258 [INFO] Waiting for clients...
+2026-05-05 02:58:39,497 [INFO] Connected: ziad (('127.0.0.1', 59534))
+2026-05-05 02:58:39,509 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: ziad connected
+2026-05-05 03:00:07,360 [INFO] Disconnected: ziad
+2026-05-05 03:00:07,360 [INFO] EVENT_LOG: Broadcast sent to 0 users | Content: ziad disconnected: Client disconnected
+2026-05-05 03:00:14,660 [INFO] Connected: ziad (('127.0.0.1', 59733))
+2026-05-05 03:00:14,663 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: ziad connected
+2026-05-05 03:02:13,101 [INFO] Disconnected: ziad
+2026-05-05 03:02:13,101 [INFO] EVENT_LOG: Broadcast sent to 0 users | Content: ziad disconnected: Client disconnected
+2026-05-05 03:02:27,472 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-05 03:02:27 | Active connections: 0
+2026-05-05 03:02:27,472 [INFO] Waiting for clients...
+2026-05-05 03:02:39,848 [INFO] Connected: ziad (('127.0.0.1', 59966))
+2026-05-05 03:02:39,851 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: ziad connected
+2026-05-05 03:02:59,660 [INFO] Disconnected: ziad
+2026-05-05 03:02:59,660 [INFO] EVENT_LOG: Broadcast sent to 0 users | Content: ziad disconnected: Client disconnected
+2026-05-05 03:03:06,883 [INFO] Connected: ziad (('127.0.0.1', 60014))
+2026-05-05 03:03:06,889 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: ziad connected
+2026-05-05 03:03:22,640 [INFO] Disconnected: ziad
+2026-05-05 03:03:22,640 [INFO] EVENT_LOG: Broadcast sent to 0 users | Content: ziad disconnected: Client disconnected
+2026-05-05 03:09:10,413 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-05 03:09:10 | Active connections: 0
+2026-05-05 03:09:10,413 [INFO] Waiting for clients...
+2026-05-05 03:11:56,556 [INFO] Connected: Abdallah (('10.98.31.243', 6556))
+2026-05-05 03:11:56,562 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: Abdallah connected
+2026-05-05 03:11:57,292 [INFO] Disconnected: Abdallah
+2026-05-05 03:11:57,310 [INFO] EVENT_LOG: Broadcast sent to 0 users | Content: Abdallah disconnected: Client disconnected
+2026-05-05 03:12:06,236 [INFO] Connected: ziad (('127.0.0.1', 53868))
+2026-05-05 03:12:06,242 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: ziad connected
+2026-05-05 03:17:49,206 [INFO] Connected: Abdallah (('10.98.31.243', 7152))
+2026-05-05 03:17:49,211 [INFO] EVENT_LOG: Broadcast sent to 2 users | Content: Abdallah connected
+2026-05-05 03:18:47,666 [INFO] Disconnected: Abdallah
+2026-05-05 03:18:47,667 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: Abdallah disconnected: Client disconnected
+2026-05-05 03:19:22,538 [INFO] Connected: admin (('10.98.31.243', 3397))
+2026-05-05 03:19:22,545 [INFO] EVENT_LOG: Broadcast sent to 2 users | Content: admin connected
+2026-05-05 03:20:32,070 [INFO] Connected: yossef (('10.98.31.235', 56801))
+2026-05-05 03:20:32,076 [INFO] EVENT_LOG: Broadcast sent to 3 users | Content: yossef connected
+2026-05-05 03:23:16,042 [INFO] Disconnected: yossef
+2026-05-05 03:23:16,042 [INFO] Disconnected: admin
+2026-05-05 03:23:16,050 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: yossef disconnected: Client disconnected
+2026-05-05 03:23:16,055 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: admin disconnected: Client disconnected
+2026-05-05 03:23:42,613 [INFO] Connected: yossef (('192.168.1.115', 49841))
+2026-05-05 03:23:42,617 [INFO] EVENT_LOG: Broadcast sent to 2 users | Content: yossef connected
+2026-05-05 03:26:39,354 [INFO] Disconnected: ziad
+2026-05-05 03:26:39,355 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: ziad disconnected: Client disconnected
+2026-05-05 03:26:54,853 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-05 03:26:54 | Active connections: 0
+2026-05-05 03:26:54,853 [INFO] Waiting for clients...
+2026-05-05 03:27:08,300 [INFO] Connected: ziad (('127.0.0.1', 62614))
+2026-05-05 03:27:08,303 [INFO] EVENT_LOG: Broadcast sent to 1 users | Content: ziad connected
+2026-05-05 03:30:36,649 [INFO] Disconnected: ziad
+2026-05-05 03:30:36,649 [INFO] EVENT_LOG: Broadcast sent to 0 users | Content: ziad disconnected: Client disconnected
+2026-05-05 11:48:09,738 [INFO] Server started at 0.0.0.0:5050 | Time: 2026-05-05 11:48:09 | Active connections: 0
+2026-05-05 11:48:09,751 [INFO] Waiting for clients...

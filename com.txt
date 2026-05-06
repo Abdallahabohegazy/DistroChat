@@ -1,0 +1,12 @@
+server
+py -3 DistroChat\server\server.py
+client
+py -3 DistroChat\client\gui\app.py
+admin
+py -3 DistroChat\admin\admin_dashboard.py
+
+admin data 
+admin
+admin123
+
+
