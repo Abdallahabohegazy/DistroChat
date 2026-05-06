@@ -253,8 +253,8 @@ CI/CD Pipeline
 
 Special thanks to:
 
-- @yossef1907
-- @MohamedZarref
+- @yossef1907    >> https://github.com/yossef1907
+- @MohamedZarref >> https://github.com/MohamedZarref
 
 for their collaboration, development, and contribution to DistroChat.
 
